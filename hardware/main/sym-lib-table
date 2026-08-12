@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "rp2040 zero") (type "KiCad") (uri "${KIPRJMOD}/../libraries/RP2040-ZERO.kicad_sym") (options "") (descr "Waveshare RP2040-Zero module"))
+)

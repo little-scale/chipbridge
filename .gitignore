@@ -1,0 +1,24 @@
+# Build and analysis output
+/build/
+/analysis/
+*.elf
+*.map
+*.hex
+
+# KiCad local state and automatic backups
+*.kicad_prl
+*.lck
+~*
+.history/
+*-backups/
+
+# Editor and operating-system files
+.DS_Store
+.cache/
+.idea/
+.vscode/
+*.swp
+
+# Local configuration and secrets
+*.local
+secrets.h
