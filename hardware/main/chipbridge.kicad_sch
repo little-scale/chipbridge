@@ -3210,6 +3210,14 @@
 				)
 			)
 		)
+		(property "BOM Comments" "Generic 470 ohm axial resistor, 0.25 W or greater, DIN0204 body" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "079f7a5f-ac56-4485-a047-fb1dcb5bafa6")
 		)
@@ -3290,6 +3298,14 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "BOM Comments" "Generic 100 nF ceramic capacitor, 16 V minimum, 2.50 mm lead pitch, body no larger than footprint" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -3451,6 +3467,14 @@
 				)
 			)
 		)
+		(property "BOM Comments" "Generic 470 ohm axial resistor, 0.25 W or greater, DIN0204 body" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "bafe68a2-def2-46ce-b3e5-ebcb826b9e4d")
 		)
@@ -3509,7 +3533,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.onsemi.com/pub/Collateral/HCPL2731-D.pdf"
+		(property "Datasheet" "https://www.onsemi.com/download/data-sheet/pdf/hcpl2731m-d.pdf"
 			(at 197.104 78.74 0)
 			(hide yes)
 			(show_name no)
@@ -3529,6 +3553,30 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "BOM Comments" "8-pin DIP optocoupler; a DIP-8 socket is optional and is not included in this BOM" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MP" "6N138M" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "onsemi" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "3"
@@ -3609,7 +3657,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.vishay.com/docs/85662/bat46.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/85662/bat46.pdf"
 			(at 68.58 50.8 0)
 			(hide yes)
 			(show_name no)
@@ -3629,6 +3677,22 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MP" "BAT46-TAP" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Vishay" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -3689,7 +3753,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "Connector_Audio:Jack_3.5mm_CUI_SJ1-3525N_Horizontal"
+		(property "Datasheet" "https://www.sameskydevices.com/product/resource/sj1-352xn.pdf"
 			(at 137.922 43.688 0)
 			(hide yes)
 			(show_name no)
@@ -3709,6 +3773,22 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MP" "SJ1-3525N" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Same Sky" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "RN"
@@ -3857,7 +3937,7 @@
 				(justify bottom)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.waveshare.com/wiki/RP2040-Zero"
 			(at 91.44 64.77 0)
 			(hide yes)
 			(show_name no)
@@ -4133,7 +4213,7 @@
 				)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "https://www.sameskydevices.com/product/resource/sj1-352xn.pdf"
 			(at 138.176 66.04 0)
 			(hide yes)
 			(show_name no)
@@ -4153,6 +4233,22 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MP" "SJ1-3525N" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Same Sky" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "RN"
@@ -4224,7 +4320,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "http://www.vishay.com/docs/85662/bat46.pdf"
+		(property "Datasheet" "https://www.vishay.com/docs/85662/bat46.pdf"
 			(at 36.83 53.34 0)
 			(hide yes)
 			(show_name no)
@@ -4244,6 +4340,22 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MP" "BAT46-TAP" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Vishay" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -4324,6 +4436,14 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "BOM Comments" "Generic 470 ohm axial resistor, 0.25 W or greater, DIN0204 body" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4464,7 +4584,7 @@
 				)
 			)
 		)
-		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
+		(property "Datasheet" "https://www.onsemi.com/pdf/datasheet/1n914-d.pdf"
 			(at 171.45 72.39 0)
 			(hide yes)
 			(show_name no)
@@ -4506,6 +4626,22 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "MP" "1N4148" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "onsemi" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"
@@ -4742,6 +4878,14 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "BOM Comments" "Generic 220 ohm axial resistor, 0.25 W or greater, DIN0204 body" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -4981,6 +5125,14 @@
 				)
 			)
 		)
+		(property "BOM Comments" "Generic 470 ohm axial resistor, 0.25 W or greater, DIN0204 body" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ae7a5a4f-2659-40db-aefa-ab5d9d88d591")
 		)
@@ -5070,6 +5222,14 @@
 				(font
 					(size 1.27 1.27)
 				)
+			)
+		)
+		(property "BOM Comments" "Generic 3 mm through-hole indicator LED; observe polarity" (at 0 0 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "2"

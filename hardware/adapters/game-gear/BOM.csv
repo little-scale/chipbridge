@@ -1,0 +1,3 @@
+Reference,Qty,Value,Footprint,MPN,Manufacturer,Chosen_Distributor,Datasheet,Validated,DNP,Notes
+J1,1,Conn_01x03_Pin,PinHeader_1x03_P2.54mm_Vertical,,,,,,,"Generic 1x3 vertical through-hole pin header, 2.54 mm pitch"
+J2,1,AudioJack3_SwitchTR,Jack_3.5mm_CUI_SJ1-3525N_Horizontal,SJ1-3525N,Same Sky,,https://www.sameskydevices.com/product/resource/sj1-352xn.pdf,,,

@@ -35,7 +35,8 @@ For Wi-Fi Ableton Link rather than wired MIDI, see the complementary
 ## Repository layout
 
 - `firmware/rp2040/` — shared Pico-family firmware and build instructions.
-- `hardware/main/` — the RP2040-Zero Chipbridge board.
+- `hardware/main/` — the RP2040-Zero Chipbridge board; see the
+  [bill of materials](hardware/BOM.md).
 - `hardware/adapters/` — console connector and cable adapter PCBs.
 - `docs/` — MIDI protocol, serial-MIDI circuit, and wiring documentation.
 - `releases/rp2040/` — current prebuilt UF2 images.

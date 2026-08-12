@@ -1,0 +1,11 @@
+Reference,Qty,Value,Footprint,MPN,Manufacturer,Chosen_Distributor,Datasheet,Validated,DNP,Notes
+C1,1,0.1uF,Disc_D3.4mm_W2.1mm_P2.50mm,,,,,,,"Generic 100 nF ceramic capacitor, 16 V minimum, 2.50 mm lead pitch, body no larger than footprint"
+"D1,D2",2,BAT46,DO-35_SOD27_P7.62mm_Horizontal,BAT46-TAP,Vishay,,https://www.vishay.com/docs/85662/bat46.pdf,,,
+D3,1,1N4148,DO-35_SOD27_P7.62mm_Horizontal,1N4148,onsemi,,https://www.onsemi.com/pdf/datasheet/1n914-d.pdf,,,
+D4,1,LED,LED_D3.0mm,,,,,,,Generic 3 mm through-hole indicator LED; observe polarity
+J1,1,CONSOLE_DATA,Jack_3.5mm_CUI_SJ1-3525N_Horizontal,SJ1-3525N,Same Sky,,https://www.sameskydevices.com/product/resource/sj1-352xn.pdf,,,
+J2,1,TRS_MIDI_IN,Jack_3.5mm_CUI_SJ1-3525N_Horizontal,SJ1-3525N,Same Sky,,https://www.sameskydevices.com/product/resource/sj1-352xn.pdf,,,
+"R2,R4,R1,R5",4,470r,Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,,,,,,,"Generic 470 ohm axial resistor, 0.25 W or greater, DIN0204 body"
+R3,1,220r,Axial_DIN0204_L3.6mm_D1.6mm_P7.62mm_Horizontal,,,,,,,"Generic 220 ohm axial resistor, 0.25 W or greater, DIN0204 body"
+U1,1,RP2040-ZERO,MODULE_RP2040-ZERO,RP2040-ZERO,Waveshare Electronics,,https://www.waveshare.com/wiki/RP2040-Zero,,,
+U2,1,6N138,DIP-8_W7.62mm_Socket,6N138M,onsemi,,https://www.onsemi.com/download/data-sheet/pdf/hcpl2731m-d.pdf,,,8-pin DIP optocoupler; a DIP-8 socket is optional and is not included in this BOM

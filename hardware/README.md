@@ -11,6 +11,12 @@ Each directory contains the editable KiCad project, schematic, and PCB layout.
 KiCad automatic backups, lock files, history, and per-user project state are
 intentionally excluded.
 
+## Bill of materials
+
+See the [Chipbridge bill of materials](BOM.md) for the main board and adapter
+parts lists. Price-free CSV exports are also provided alongside each KiCad
+project. The component properties in the schematics are the source of truth.
+
 ## Project-local libraries
 
 The main board uses a custom Waveshare RP2040-Zero symbol and footprint under
